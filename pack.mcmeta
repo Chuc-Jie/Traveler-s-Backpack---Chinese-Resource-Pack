@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [ 15, 9999 ],
+    "description": [
+      {"bold":true,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"By ","color":"#ffffff"},
+      {"bold":true,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"友野YouyEr","color":"#ffffff"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":" 🎉📑✨\n","color":"#ffffff"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"Fabric ≥ 1.16.5 ","color":"#54fcfc"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"","color":"#95959a"}
+    ]
+  }
+}
